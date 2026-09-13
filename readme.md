@@ -1,8 +1,9 @@
 1. URL del programa:
-a.(en el programa):* Running on http://127.0.0.1:8080
-    		   * Running on http://192.168.249.19:8080
+a.(en el programa):
+* Running on http://127.0.0.1:8080
+* Running on http://192.168.249.19:8080
 b.(Máquina virtual): *
-2. Resumen de la funcionalidad
+3. Resumen de la funcionalidad
 Una página para la gestión PQRS (Peticiones, Quejas, Reclamos, Sugerencias y Denuncias) hecho en python para tanto entidades públicas o privadas fundamental para evaluar la calidad del servicio a cliente. Se pueden crear, editar y borrar peticiones; consultar, responder y editar peticiones enviadas y consultar las métricas y reportes globales de todas las peticiones existentes.
 librerías utilizadas (Para reportes y visualizaciones avanzadas):
 Pandas.
@@ -16,6 +17,8 @@ CSS Personalizado
 MySQL
 Flask
 3. y 4. Jerarquía del proyecto
+
+  
 ├── static
 │   ├── \ css
 │   │   ├── style.css 
@@ -43,6 +46,8 @@ Flask
 ├── setup.py
 └──sql.txt
 \ css
+
+
 Contiene los diseños hechos en css para las ventanas
 templates
 Contiene cada una de las ventanas con su estructura y lógica definida usando html.
