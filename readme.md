@@ -16,9 +16,7 @@ Bootstrap
 CSS Personalizado
 MySQL
 Flask
-3. y 4. Jerarquía del proyecto
-
-  
+3. y 4. Jerarquía del proyecto  
 ├── static
 │   ├── \ css
 │   │   ├── style.css 
